@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8476
 description: The thirst quenchers -- Guttersnipe -- The mailman cometh -- Odd man
   in.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30797#The-Thirst-Quenchers
 gutenberg_issued: '2009-12-29'
 gutenberg_type: Text
 identifiers:
